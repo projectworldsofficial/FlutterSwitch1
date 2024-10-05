@@ -1,4 +1,4 @@
-name: flutter_switch
+name: flutter_switch1
 description: A custom switch widget that can have a custom height and width, borders, border radius, colors, toggle size, custom text and icons inside the toggle.
 version: 0.3.1
 homepage: https://github.com/boringdeveloper/FlutterSwitch
