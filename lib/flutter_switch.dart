@@ -1,4 +1,4 @@
-library flutter_switch;
+library flutter_switch1;
 
 import 'package:flutter/material.dart';
 
@@ -17,7 +17,7 @@ class FlutterSwitch extends StatefulWidget {
     required this.onToggle,
     this.activeColor = Colors.blue,
     this.inactiveColor = Colors.grey,
-    this.activeTextColor = Colors.white70,
+    this.activeTextColor = Colors.black,
     this.inactiveTextColor = Colors.white70,
     this.toggleColor = Colors.white,
     this.activeToggleColor,
